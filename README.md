@@ -1,5 +1,6 @@
 # MovieTube-Website
-#Files description:
+
+Files description:
 
 1.index.php contains the html and javascript code for the first page in the website which contains the sign up and login forms.
 2.index.css is the css file for index.php file.
@@ -15,7 +16,7 @@ https://user-images.githubusercontent.com/109630273/208786229-5d94a33f-2b12-4d7e
 
 Logout.php contains the php code for logging out of the website.
 
-#About:
+About:
 
 For the frontend I used HTML, CSS, and JavaScript.
 
